@@ -43,6 +43,7 @@ body {
   .game {
     display: flex;
     flex-direction: row;
+    height: 300px;
   }
   
   .game-info {
